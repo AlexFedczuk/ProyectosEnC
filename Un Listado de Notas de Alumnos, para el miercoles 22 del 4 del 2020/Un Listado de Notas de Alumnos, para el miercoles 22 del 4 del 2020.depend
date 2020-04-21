@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587498186 source:c:\users\pc\documents\utn proyectos 25 del 3 del 2020\un listado de notas de alumnos, para el miercoles 22 del 4 del 2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesDelListadoDeNotas.h"
+
+1587498213 c:\users\pc\documents\utn proyectos 25 del 3 del 2020\un listado de notas de alumnos, para el miercoles 22 del 4 del 2020\funcionesdellistadodenotas.h
+	"funcionesDelListadoDeNotas.h"
+
+1587498443 source:c:\users\pc\documents\utn proyectos 25 del 3 del 2020\un listado de notas de alumnos, para el miercoles 22 del 4 del 2020\funcionesdellistadodenotas.c
+	<stdio.h>
+	<stdlib.h>
+
